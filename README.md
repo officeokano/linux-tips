@@ -1,1 +1,3 @@
-# linux-tips
+# Linux小技集
+
+個人用メモです。
