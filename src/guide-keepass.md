@@ -20,7 +20,7 @@ KeePassX も本家 KeePass の Classic Edition と Professional Edition に対�
 
 ## Debian 8 で KeePassX 2.0 を利用する
 
-Debian 8 では安定版の公式リポジトリは KeePassX 0.4 のままだ。他のプラットフォームが KeePassX 2.0 にアプデートされた場合、 sid (unstable) のファイルをインストールして KeePassX をアップデートすることができる。 [Debianのパッケージサイト](https://packages.debian.org/sid/keepassx) から対応する .deb ファイルをダウンロードして
+Debian 8 では安定版の公式リポジトリは KeePassX 0.4 のままだ。他のプラットフォームが KeePassX 2.0 にアプデートされた場合、 sid (unstable) のファイルをインストールして KeePassX をアップデートすることができる。 [Debianのパッケージサイト][3] から対応する .deb ファイルをダウンロードして
 
     $ sudo gdebi ダウンロードしたファイル.deb
 
@@ -28,7 +28,7 @@ Debian 8 では安定版の公式リポジトリは KeePassX 0.4 のままだ。
 
 ## Ubuntu 16.04 で KeePassX 0.4 を利用する
 
-Ubuntu 16.04 では KeePassX 2.0 が公式リポジトリに登録されていて、 通常 KeePassX 0.4 はインストールできない。他の環境の兼ね合いで KeePassX 0.4 を使いたい場合には <http://security.ubuntu.com/ubuntu/pool/universe/k/keepassx/keepassx_0.4.3+dfsg-0.1ubuntu1.14.04.1_amd64.deb> からUbuntu 14.04 用パッケージをダウンロードしてインストールする。
+Ubuntu 16.04 では KeePassX 2.0 が公式リポジトリに登録されていて、 通常 KeePassX 0.4 はインストールできない。他の環境の兼ね合いで KeePassX 0.4 を使いたい場合には [Ubuntu 14.04 用パッケージ][4]をダウンロードしてインストールする。
 
 このままでは次回アップデートの際に KeePassX 2.0 に上書きされてしまうので、これを避けるために
 
@@ -42,3 +42,5 @@ Ubuntu 16.04 では KeePassX 2.0 が公式リポジトリに登録されてい�
 
 [1]: http://keepass.info/
 [2]: https://www.keepassx.org/
+[3]: https://packages.debian.org/sid/keepassx
+[4]: http://security.ubuntu.com/ubuntu/pool/universe/k/keepassx/keepassx_0.4.3+dfsg-0.1ubuntu1.14.04.1_amd64.deb
