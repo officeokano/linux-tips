@@ -1,3 +1,9 @@
-# Linux小技集
+# Medium公開用ファイル
 
-個人用メモです。いずれはちゃんとしたものにまとめたいと思っていますが、とりあえずは思いついたことを書き散らかしています。アイデア大歓迎。Pull requestでどうぞ。
+## [src](https://github.com/officeokano/medium-source/tree/master/src)
+
+Mediumに公開するデータの現行です。
+
+## [tips](https://github.com/officeokano/medium-source/tree/master/tips)
+
+Linux小技集です。
