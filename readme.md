@@ -2,7 +2,7 @@
 
 ## [src](https://github.com/officeokano/medium-source/tree/master/src)
 
-Mediumに公開するデータの原稿です。
+[Medium](https://medium.com/okano)に公開するデータの原稿です。
 
 ## [tips](https://github.com/officeokano/medium-source/tree/master/tips)
 
