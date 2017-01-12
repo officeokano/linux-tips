@@ -32,11 +32,11 @@ Ubuntu 16.04 では KeePassX 2.0 が公式リポジトリに登録されてい�
 
 このままでは次回アップデートの際に KeePassX 2.0 に上書きされてしまうので、これを避けるために
 
-    echo "keepassx hold" | sudo dpkg --set-selections
+    $ echo "keepassx hold" | sudo dpkg --set-selections
 
 とコマンドを実行して KeePassX のアップデートを保留するようにしておく。他のプラットフォームが KeePassX 2.0に統一されたら、
 
-    echo "keepassx install" | sudo dpkg --set-selections
+    $ echo "keepassx install" | sudo dpkg --set-selections
 
 とコマンドを実行して KeePassX をアップデートできるようにする。
 
