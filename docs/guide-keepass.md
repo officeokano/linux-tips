@@ -44,3 +44,9 @@ Ubuntu 16.04 では KeePassX 2.0 が公式リポジトリに登録されてい�
 [2]: https://www.keepassx.org/
 [3]: https://packages.debian.org/sid/keepassx
 [4]: http://security.ubuntu.com/ubuntu/pool/universe/k/keepassx/keepassx_0.4.3+dfsg-0.1ubuntu1.14.04.1_amd64.deb
+
+Written by H Okano  
+h.okano@gmail.com /
+[twitter](https://twitter.com/messages/compose?recipient_id=10862) /
+[messenger](https://m.me/okano)  
+Released for free under the [MIT lisense](https://opensource.org/licenses/mit-license.php)
