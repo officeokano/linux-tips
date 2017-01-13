@@ -12,7 +12,7 @@ Zip 形式でファイルを圧縮する場合、それがどのような環境�
 
 <https://support.microsoft.com/ja-jp/kb/2704299>
 
-Written by H Okano  
+Written by [H Okano](https://github.com/officeokano)  
 h.okano@gmail.com /
 [twitter](https://twitter.com/messages/compose?recipient_id=10862) /
 [messenger](https://m.me/okano)  

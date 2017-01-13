@@ -72,7 +72,7 @@ Linux ではインストール中はネットワークに接続しておく必�
 
 インストールが完了したら再起動して Linux を使おう。
 
-Written by H Okano  
+Written by [H Okano](https://github.com/officeokano)  
 h.okano@gmail.com /
 [twitter](https://twitter.com/messages/compose?recipient_id=10862) /
 [messenger](https://m.me/okano)  
