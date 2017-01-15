@@ -78,3 +78,9 @@ Writebox は Dropbox と Google Drive と連携してファイルを参照、編
 ことさらに汎用性と永続性を強調するのは、企業は汎用性をなくして自社サービスに囲い込みたいものだし、収益が低下したらさっさとやめてしまいたいからだ。
 
 ユーザーとしてはいつでも他社サービスに乗り換えできるようにしておきたいし、使いたいと思っている間はずっと同じものを使い続けたいものだ。
+
+Written by [H Okano](https://github.com/officeokano)  
+h.okano@gmail.com /
+[twitter](https://twitter.com/messages/compose?recipient_id=10862) /
+[messenger](https://m.me/okano)  
+Released for free under the [MIT lisense](https://opensource.org/licenses/mit-license.php)
