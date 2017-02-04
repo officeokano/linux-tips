@@ -1,3 +1,5 @@
+この文章の大部分は新しい [GitHub Pages](https://officeokano.github.io/linux-guide-ja/) に移動しました。この乗法は更新されません。
+
 # 初心者のための Linux 入門
 
 以前も別の場所に書いたが Windows と Linux を併用して Linux の方がいいという結論に至った。とはいえ多くの人にとって Linux はなんだかよくわからないものではないだろうか。そこでこれから Linux を試してみようと思う人のためのガイドを書くことにした。
