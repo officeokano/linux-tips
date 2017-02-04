@@ -73,9 +73,3 @@ Live 起動して十分試用してみて問題なければいよいよインス
 Linux ではインストール中はネットワークに接続しておく必要がある。インストール中に更新をダウンロードするオプションを設定しておかないと、日本語環境は正常に設定できないケースがあるからだ。
 
 インストールが完了したら再起動して Linux を使おう。
-
-Written by [H Okano](https://github.com/officeokano)  
-h.okano@gmail.com /
-[twitter](https://twitter.com/messages/compose?recipient_id=10862) /
-[messenger](https://m.me/okano)  
-Released for free under the [MIT license](https://opensource.org/licenses/mit-license.php)
