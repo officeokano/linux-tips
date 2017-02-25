@@ -20,3 +20,4 @@
 - [GPG で PDF に署名する](tips/gpg-sign-pdf.md)
 - [Ubuntu 16.04 で Google Drive を使う方法](tips/google-drive-in-ubuntu.md)
 - [ImageMagic で画像を変換](tips/imagemagic.md)
+- [Pandoc で markdown を docx などに変換](tips/pandoc.md)
