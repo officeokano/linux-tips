@@ -22,3 +22,5 @@
 ## タイムサーバーと同期する
 
     $ sudo ntpdate pool.ntp.org
+
+[戻る](../readme.md)

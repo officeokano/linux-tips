@@ -17,3 +17,5 @@
     $ certutil -hashfile filename.iso MD5
     $ certutil -hashfile filename.iso SHA256
     $ gpg --verify filename.iso.asc filename.iso
+
+    [戻る](../readme.md)

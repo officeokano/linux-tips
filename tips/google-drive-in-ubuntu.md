@@ -5,3 +5,5 @@
     $ XDG_CURRENT_DESKTOP=GNOME gnome-control-center (Mate/Xfceの場合)
 
 Ubuntu16.04で動作確認。それ以前のバージョンでは実行不可。
+
+[戻る](../readme.md)

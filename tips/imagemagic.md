@@ -9,3 +9,5 @@
 
     $ mogrify -format png *.jpg (jpeg をまとめて png に変換)
     $ mogrify -geometry 640x480 *.jpg (まとめて画像サイズを変更して上書き)
+
+[戻る](../readme.md)
