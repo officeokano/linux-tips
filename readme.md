@@ -16,6 +16,7 @@
 
 - [インストール後に行う設定](tips/firstrun.md)
 - [設定小技集](tips/settings.md)
+- [Tar　で圧縮/展開](tips/tar.md)
 - [MD5/SHA256/GPGのチェックコマンド](tips/check-md5.md)
 - [GPG で暗号化する](tips/gpg-crypt.md)
 - [GPG で PDF に署名する](tips/gpg-sign-pdf.md)
