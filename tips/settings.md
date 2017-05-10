@@ -14,5 +14,4 @@
 
     $ echo X-GNOME-Autostart-Delay=60 >> ~/.confg/autostart/application.desktop
 
-
 [戻る](../readme.md)
