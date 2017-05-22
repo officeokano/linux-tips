@@ -18,4 +18,4 @@
     $ certutil -hashfile filename.iso SHA256
     $ gpg --verify filename.iso.asc filename.iso
 
-    [戻る](../readme.md)
+[戻る](../readme.md)

@@ -24,3 +24,4 @@
 - [ImageMagic で画像を変換](tips/imagemagic.md)
 - [Pandoc で markdown を docx などに変換](tips/pandoc.md)
 - [EFI boot manager で不要なブートメニューを消去](tips/efibootmgr.md)
+- [Pacman のエラーを修正する](tips/pacman-repair.md)
