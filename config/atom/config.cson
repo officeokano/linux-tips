@@ -1,0 +1,18 @@
+"*":
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "atom-dark-syntax"
+    ]
+  editor:
+    softWrap: true
+    tabLength: 4
+    fontSize: 16
+    tabType: "soft"
+  "markdown-preview":
+    liveUpdate: false
+    openPreviewInSplitPane: false
+    useGitHubStyle: true
+  welcome:
+    showOnStartup: false
