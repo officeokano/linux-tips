@@ -6,10 +6,12 @@
       "atom-dark-syntax"
     ]
   editor:
+    fontSize: 16
     softWrap: true
     tabLength: 4
-    fontSize: 16
     tabType: "soft"
+  "exception-reporting":
+    userId: "38fb9f95-e86a-43d5-bd35-c545b7210ea2"
   "markdown-preview":
     liveUpdate: false
     openPreviewInSplitPane: false
