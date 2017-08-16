@@ -1,6 +1,7 @@
 # GPG 鍵サーバー一覧
 現在登録しているサーバー
 
+- <http://pool.sks-keyservers.net:11371>
 - <https://pgp.mit.edu/>
 - <https://gnupg.pub/>
 - <https://keys.mailvelope.com/>
