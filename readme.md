@@ -27,3 +27,4 @@
 - [EFI boot manager で不要なブートメニューを消去](tips/efibootmgr.md)
 - [Pacman のエラーを修正する](tips/pacman-repair.md)
 - [Dropbox を削除する](tips/dropbox-remove.md)
+- [Rkhunter でマルウェアチェック](tips/rkhunter.md)
