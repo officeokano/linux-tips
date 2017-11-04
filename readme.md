@@ -28,3 +28,4 @@
 - [Pacman のエラーを修正する](tips/pacman-repair.md)
 - [Dropbox を削除する](tips/dropbox-remove.md)
 - [Rkhunter でマルウェアチェック](tips/rkhunter.md)
+- [muttrc を書く](tips/mutt.md)
