@@ -30,7 +30,9 @@
     set use_from=yes
     set smtp_url=smtp(s)://username@smtp.example.com:465/587/25
     set smtp_pass=password
-    set send_charset=us-ascii:iso-2022-jp
+    set send_charset=us-ascii:iso-2022-jp # 無難な設定
+    set send_charset=utf-8 # 下の行とセットで使用
+    set mime_fwd=yes
     set ssl_starttls=yes # starttls を使用しないなら書かなくてよい
 
 ## パスワードの保護
