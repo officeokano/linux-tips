@@ -33,7 +33,8 @@
     set send_charset=us-ascii:iso-2022-jp # 無難な設定
     set send_charset=utf-8 # 下の行とセットで使用
     set mime_fwd=yes
-    set ssl_starttls=yes # starttls を使用しないなら書かなくてよい
+    set ssl_starttls=yes # starttls を使用
+    set signature=~/.mutt/signature # --\n は不要
 
 ## パスワードの保護
 
