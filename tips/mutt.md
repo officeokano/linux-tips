@@ -13,6 +13,8 @@
 
 #### Maildir の場合
 
+Mail ディレクトリ下に最低限 `cur` , `new` のサブディレクトリが必要。
+
     set mbox_type=Maildir
     set folder=~/Mail
     set spoolfile=+/
