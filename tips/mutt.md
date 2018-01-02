@@ -1,12 +1,32 @@
 # muttrc を書く
 
-## メールフォルダの設定
+## POP の場合
+
+    set pop_host=pop(s)://pop.example.com:995/110
+    set pop_user=username
+    set pop_pass=password
+    set pop_last=yes
+
+### メールフォルダの設定
+
+標準のスプールを使用する場合は何も書かなくてもいい。
+
+#### Maildir の場合
 
     set mbox_type=Maildir
     set folder=~/Mail
     set spoolfile=+/
 
-標準のスプールを使用する場合は何も書かなくてもいい。
+#### MH の場合
+
+他のアプリで作成した MH ディレクトリを流用するのでなければ各フォルダで `touch .mh_sequences` を実行する。
+
+    set mbox_type=MH
+    set folder=~/Mail
+    set spoolfile=+inbox
+    set mbox=+inbox
+    set postponed=+draft
+    set mh_purge=yes # これを書かないと削除したメールが ,1 などといった名前で残り続ける
 
 ## IMAP の場合
 
@@ -14,13 +34,6 @@
     set imap_pass=password
     set folder=imap(s)://imap.example.com/
     set spoolfile=+INBOX
-
-## POP の場合
-
-    set pop_host=pop(s)://pop.example.com:995/110
-    set pop_user=username
-    set pop_pass=password
-    set pop_last=yes
 
 ## SMTP の設定
 
