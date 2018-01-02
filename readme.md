@@ -6,10 +6,6 @@
 
 [msicellaneous](https://officeokano.github.io/miscellaneous/) に移動しました。
 
-# scripts
-
-覚書的なシェルスクリプトです。
-
 # tips
 
 全く説明のない小技集です。自分用メモ。
