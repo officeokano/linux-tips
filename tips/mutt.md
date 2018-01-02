@@ -21,7 +21,7 @@ Mail ディレクトリ下に最低限 `cur` , `new` のサブディレクトリ
 
 #### MH の場合
 
-他のアプリで作成した MH ディレクトリを流用するのでなければ各フォルダで `touch .mh_sequences` を実行する。
+他のアプリで作成した MH ディレクトリを流用するのでなければ各ディレクトリで `touch .mh_sequences` を実行する。
 
     set mbox_type=MH
     set folder=~/Mail
