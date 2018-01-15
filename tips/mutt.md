@@ -11,9 +11,18 @@
 
 標準のスプールを使用する場合は何も書かなくてもいい。
 
+#### mbox の場合
+
+    set mbox_type=mbox
+    set folder=~/Mail
+    set spoolfile=+inbox
+    set mbox=+inbox
+    set postponed=+draft
+    set record=+sent
+
 #### Maildir の場合
 
-Mail ディレクトリ下に最低限 `cur` , `new` のサブディレクトリが必要。
+Mail ディレクトリ下に最低限 `cur` , `new` , `tmp` のサブディレクトリが必要。
 
     set mbox_type=Maildir
     set folder=~/Mail
@@ -28,6 +37,7 @@ Mail ディレクトリ下に最低限 `cur` , `new` のサブディレクトリ
     set spoolfile=+inbox
     set mbox=+inbox
     set postponed=+draft
+    set record=+sent
     set mh_purge=yes # これを書かないと削除したメールが ,1 などといった名前で残り続ける
 
 ## IMAP の場合
@@ -39,7 +49,6 @@ Mail ディレクトリ下に最低限 `cur` , `new` のサブディレクトリ
 
 ## SMTP の設定
 
-    unset record
     set realname=yourname
     set from=email@example.com
     set use_from=yes
