@@ -11,4 +11,12 @@ Pandoc は拡張子から自動でファイルタイプを判別するが、明�
 
 で指定する。
 
+# Pandoc で docx を markdown や text に変換
+
+    $ pandoc --wrap=auto|none|preserve --column=72 -o outfile.md|.txt infile.docx
+
+- `wrap=auto` だと `column=` で指定した桁数で折り返す
+- `wrap=none` だと折り返しなし
+- `wrap=preserve` だと元ファイルの折り返し位置を保持
+
 [戻る](../readme.md)
