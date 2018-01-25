@@ -8,6 +8,6 @@ for filepath in $files; do
 done
 for i in ${dirary[@]}; do
   printf "Creating archive: $i...\n"
-  tar czf ../$i.tar.gz --exclude='.*' $i
+  tar czvf ../$i.tar.gz --exclude='.*' $i
 done
 printf "Done.\n"
