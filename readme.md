@@ -20,6 +20,7 @@
 - [Ubuntu 16.04 で Google Drive を使う方法](tips/google-drive-in-ubuntu.md)
 - [ImageMagick で画像を変換](tips/imagemagick.md)
 - [Pandoc で markdown を docx などに変換](tips/pandoc.md)
+- [Pdftk で PDF を編集](tips/pdftk.md)
 - [EFI boot manager で不要なブートメニューを消去](tips/efibootmgr.md)
 - [Pacman のエラーを修正する](tips/pacman-repair.md)
 - [Dropbox を削除する](tips/dropbox-remove.md)
