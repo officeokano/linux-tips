@@ -4,7 +4,7 @@ set statusline=%<%f\ %m%r%h%w%{'['.(&fenc!=''?&fenc:&enc).']['.&ff.']'}%=%l,%c%V
 set title
 set number
 set numberwidth=4
-set expandtab
+set noexpandtab
 set tabstop=8
 set shiftwidth=4
 set noswapfile
