@@ -22,3 +22,7 @@
     useGitHubStyle: true
   welcome:
     showOnStartup: false
+  "pdf-view":
+    fitToWidthOnOpen: true
+  welcome:
+    showOnStartup: false
